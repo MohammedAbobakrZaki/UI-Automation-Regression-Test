@@ -26,7 +26,31 @@ The framework includes:
 
 ## Project Structure
 
-**src/ ├── main/ │ ├── java/ │ │ ├── RemotelyFlows/ │ │ │ ├── GoToMembers.java │ │ │ ├── GoToProjects.java │ │ │ ├── GoToSites.java │ │ │ ├── LoginToWebsite.java │ │ │ └── ... │ │ ├── utils/ │ │ ├── ConfigManager.java │ │ ├── WebDriverManager.java │ │ └── LoggerUtil.java ├── test/ │ ├── java/ │ │ ├── TestWebsiteFlows/ │ │ │ ├── LoginTest.java │ │ │ ├── DashboardTest.java │ │ │ ├── ProjectsTest.java │ │ │ ├── SitesTest.java │ │ │ ├── TasksTest.java │ │ │ └── ... │ ├── resources/ │ ├── TestNG.xml │ ├── config.properties │ └── ...**
+src
+├── main
+│   ├── java
+│   │   ├── RemotelyFlows
+│   │   │   ├── GoToMembers.java
+│   │   │   ├── GoToProjects.java
+│   │   │   ├── GoToSites.java
+│   │   │   ├── LoginToWebsite.java
+│   │   │   └── ...
+│   │   └── utils
+│   │       ├── ConfigManager.java
+│   │       ├── WebDriverManager.java
+│   │       └── LoggerUtil.java
+├── test
+│   ├── java
+│   │   ├── TestWebsiteFlows
+│   │   │   ├── LoginTest.java
+│   │   │   ├── DashboardTest.java
+│   │   │   ├── ProjectsTest.java
+│   │   │   ├── SitesTest.java
+│   │   │   └── TasksTest.java
+│   └── resources
+│       ├── TestNG.xml
+│       ├── config.properties
+│       └── ...
 
 
 ## Getting Started
