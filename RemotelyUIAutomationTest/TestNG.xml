@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+    <test verbose="2" preserve-order="true" name="Regression Test">
+        <classes>
+            <class name="TestWebsiteFlows.LoginTest"/>
+            <class name="TestWebsiteFlows.DashboardTest"/>
+            <class name="TestWebsiteFlows.ProjectsTest"/>
+            <class name="TestWebsiteFlows.SitesTest"/>
+            <class name="TestWebsiteFlows.TasksTest"/>
+            <class name="TestWebsiteFlows.MembersTest"/>
+        </classes>
+    </test>
+
+</suite>
