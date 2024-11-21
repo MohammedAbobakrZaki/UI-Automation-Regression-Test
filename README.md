@@ -25,7 +25,7 @@ The framework includes:
 
 
 ## Project Structure
-
+```
 src
 ├── main
 │   ├── java
@@ -51,8 +51,7 @@ src
 │       ├── TestNG.xml
 │       ├── config.properties
 │       └── ...
-
-
+```
 ## Getting Started
 Follow the steps below to set up and run the framework.
 
