@@ -67,11 +67,12 @@ Follow the steps below to set up and run the framework.
 2. Import the project into your preferred IDE as a Maven project.
 
 3. Configure `config.properties`:
+```
 base.url=https://app.remotely.store
 username=your_email@example.com
 password=your_password
 browser=chrome
-
+```
 
 ## Running Tests
 
