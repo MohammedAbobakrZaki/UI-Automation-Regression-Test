@@ -101,7 +101,7 @@ Suite: Remotely Test Suite
 Total tests run: 15, Failures: 0, Skips: 0
 ===============================================
 ```
-# 🛠 Troubleshooting  
+## 🛠 Troubleshooting  
 
 | Issue                  | Solution  |
 |------------------------|-----------|
@@ -109,7 +109,6 @@ Total tests run: 15, Failures: 0, Skips: 0
 | 🟡 **Element Not Visible**  | Increase implicit waits in `WebDriverManager`  |
 | 🔵 **Configuration Errors**  | Check `config.properties` formatting  |
 
----
 
 ## ⚙ Technology Stack  
 
@@ -120,5 +119,4 @@ Total tests run: 15, Failures: 0, Skips: 0
 | **Build Tool**         | ![Maven](https://img.shields.io/badge/Maven-3.8+-blue)  |
 | **Language**           | ![Java](https://img.shields.io/badge/Java-11+-orange)  |
 
----
 
