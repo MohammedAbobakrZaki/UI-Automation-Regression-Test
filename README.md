@@ -60,14 +60,14 @@ graph TD
     G --> H[Generate Report]
 ```
 ## 🛠️ Setup Guide
-### 📋 Prerequisites
+### 📋 Prerequisites :
 ☕ Java JDK 11+
 
 🧰 Maven 3.8+
 
 🌐 Browser Drivers
 
-### ⚙️ Configuration
+### ⚙️ Configuration :
 #### config.properties template:
 ```properties
 # 🌍 Environment
@@ -101,3 +101,11 @@ Suite: Remotely Test Suite
 Total tests run: 15, Failures: 0, Skips: 0
 ===============================================
 ```
+
+## 🔧 Troubleshooting
+
+### Issue	Solution
+### 🔴 Driver Not Found	Verify driver versions match browser
+### 🟡 Element Not Visible	Increase implicit waits in WebDriverManager
+### 🔵 Configuration Errors	Check config.properties formatting
+
