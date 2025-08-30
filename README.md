@@ -1,4 +1,4 @@
-# 🖥️ UI Automation Testing Framework
+# 🖥️ UI Test Automation Framework
 
 ![Java](https://img.shields.io/badge/Java-11%2B-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-orange)
