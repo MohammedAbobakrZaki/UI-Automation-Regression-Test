@@ -1,11 +1,11 @@
-# 🖥️ UI Test Automation Framework
+# 🖥️ Web UI Test Automation
 
 ![Java](https://img.shields.io/badge/Java-11%2B-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-red)
 
 ## 🚀 Overview
-A modular **UI Automation Framework** for web applications using Selenium, TestNG, and Java. Designed for end-to-end testing of critical workflows including:
+A modular **Web UI Test Automation with Selenium** for web applications using Selenium, TestNG, and Java. Designed for end-to-end testing of critical workflows including:
 
 - 🔐 Authentication flows
 - 📊 Dashboard navigation
